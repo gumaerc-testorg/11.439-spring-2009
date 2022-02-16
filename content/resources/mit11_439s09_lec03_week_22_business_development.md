@@ -7,8 +7,13 @@ description: Lecture presentation on policies, interventions, business developme
   commercial centers to attract and sustain customer markets, the tools and approaches
   used to develop a district marketing image or position, and directly marketing the
   business districts to distinct customer groups.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/8112e922f53672ea946d8003bff739b1_MIT11_439s09_lec03_Week_22_Business_Development.pdf
+file: /media/courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/8112e922f53672ea946d8003bff739b1_MIT11_439s09_lec03_Week_22_Business_Development.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Calendar and Lecture Summaries
+parent_type: CourseSection
 resourcetype: Document
 title: 'District Revitalization Tools: Business Development and Marketing'
 uid: 8112e922-f536-72ea-946d-8003bff739b1

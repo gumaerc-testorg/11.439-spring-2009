@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Calendar and Lecture Summaries
 uid: 0416ddb6-38ae-b1b3-9052-8080e126599a
 ---

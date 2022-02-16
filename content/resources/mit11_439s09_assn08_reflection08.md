@@ -5,8 +5,13 @@ description: Weekly reflection exercise geared to explore issues faced by planne
   experiences working in multi-disciplinary teams. This final assignment asks each
   student to evaluate and grade the work of each team member and to reflect on their
   personal contributions to and learning from the group process.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/dd72f7500fbaf9c7d40578b23c823efa_MIT11_439s09_assn08_reflection08.pdf
+file: /media/courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/dd72f7500fbaf9c7d40578b23c823efa_MIT11_439s09_assn08_reflection08.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Reflection #8: Group Process and Class Contribution, And Grades'
 uid: dd72f750-0fba-f9c7-d405-78b23c823efa
