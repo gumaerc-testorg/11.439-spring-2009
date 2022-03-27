@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Lecture Summaries
 parent_type: CourseSection
+parent_uid: 0416ddb6-38ae-b1b3-9052-8080e126599a
 resourcetype: Document
 title: Field Trip to Broad Street Commercial Corridor, New Orleans, Louisiana
 uid: e0da9b56-fba2-8589-b866-c64fe9ca9076

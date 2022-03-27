@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c89e1604-e825-b56f-f4c1-4bfff8b28fd3
 resourcetype: Document
 title: 'Reflection #2: First Experiences and Thoughts '
 uid: 7b7c1138-e5ee-0109-b373-003c6efe0799

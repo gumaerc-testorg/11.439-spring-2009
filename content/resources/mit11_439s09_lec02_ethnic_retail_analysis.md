@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Lecture Summaries
 parent_type: CourseSection
+parent_uid: 0416ddb6-38ae-b1b3-9052-8080e126599a
 resourcetype: Document
 title: Ethnic Retail Analysis
 uid: 64693bde-6849-eff2-ced4-14e44bb855b0

@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: bd5434f2-511d-7ed9-c958-520c47cb2b2a
 resourcetype: Document
 title: 'Downtown Salem Retail Market Study: Interim Report '
 uid: ef238fa2-50ca-c354-cea9-3b2e185ba7a3

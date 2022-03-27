@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: a3080f9d-54b4-b0ef-5bd6-7f53a6e0f749
 resourcetype: Document
 title: Additional Background about the St. Claude area and the project
 uid: 100ad3a2-6571-1295-e394-ba2141d1c482

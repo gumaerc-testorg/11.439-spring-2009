@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Lecture Summaries
 parent_type: CourseSection
+parent_uid: 0416ddb6-38ae-b1b3-9052-8080e126599a
 resourcetype: Document
 title: Market and Capacity Analysis for  Commercial District Planning
 uid: eacec993-08a7-289c-b0ba-6d3386f24e7f

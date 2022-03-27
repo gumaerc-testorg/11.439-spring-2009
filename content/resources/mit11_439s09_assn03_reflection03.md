@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c89e1604-e825-b56f-f4c1-4bfff8b28fd3
 resourcetype: Document
 title: 'Reflection #3: Defining shared issues or questions to examine through reflection '
 uid: 511e4773-3249-13f6-5796-ee68c2a382c4
