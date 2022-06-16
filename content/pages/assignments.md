@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the assignments and reflection exercises of the
+  course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -28,7 +30,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Expectations, goals, and apprehensions ([PDF]({{< baseurl >}}/resources/mit11_439s09_assn01_reflection01))
+Expectations, goals, and apprehensions ({{% resource_link a13d4775-2b71-ae1d-fd15-2824857a8693 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -37,7 +39,7 @@ Expectations, goals, and apprehensions ([PDF]({{< baseurl >}}/resources/mit11_43
 2
 {{< tdclose >}}
 {{< tdopen >}}
-First experiences and thoughts ([PDF]({{< baseurl >}}/resources/mit11_439s09_assn02_reflection02))
+First experiences and thoughts ({{% resource_link 7b7c1138-e5ee-0109-b373-003c6efe0799 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +48,7 @@ First experiences and thoughts ([PDF]({{< baseurl >}}/resources/mit11_439s09_ass
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Defining shared issues or questions to examine through reflection ([PDF]({{< baseurl >}}/resources/mit11_439s09_assn03_reflection03))
+Defining shared issues or questions to examine through reflection ({{% resource_link 511e4773-3249-13f6-5796-ee68c2a382c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +57,7 @@ Defining shared issues or questions to examine through reflection ([PDF]({{< bas
 4
 {{< tdclose >}}
 {{< tdopen >}}
-How our personal values shape our work ([PDF]({{< baseurl >}}/resources/mit11_439s09_assn04_reflection04))
+How our personal values shape our work ({{% resource_link 1d8c86db-b9eb-14e1-164a-08ca375c2058 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +66,7 @@ How our personal values shape our work ([PDF]({{< baseurl >}}/resources/mit11_43
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Looking backward and forward ([PDF]({{< baseurl >}}/resources/mit11_439s09_assn05_reflection05))
+Looking backward and forward ({{% resource_link 3eb833d4-dd06-b399-335f-2dbec89b1182 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +75,7 @@ Looking backward and forward ([PDF]({{< baseurl >}}/resources/mit11_439s09_assn0
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Commercial revitalization practice ([PDF]({{< baseurl >}}/resources/mit11_439s09_assn06_reflection06))
+Commercial revitalization practice ({{% resource_link e299755b-4e0b-b4ca-b858-427ebc577ac5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +84,7 @@ Commercial revitalization practice ([PDF]({{< baseurl >}}/resources/mit11_439s09
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Critical moments: personal understanding ([PDF]({{< baseurl >}}/resources/mit11_439s09_assn07_reflection07))
+Critical moments: personal understanding ({{% resource_link 096bf250-7134-6b1e-7c48-03ab135396fd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Critical moments: personal understanding ([PDF]({{< baseurl >}}/resources/mit11_
 {{< tdopen >}}
 
 
-Group process and class contribution and grades ([PDF]({{< baseurl >}}/resources/mit11_439s09_assn08_reflection08))
+Group process and class contribution and grades ({{% resource_link dd72f750-0fba-f9c7-d405-78b23c823efa "PDF" %}})
 
 
 {{< tdclose >}}
@@ -123,7 +125,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip walking tour of St. Claude Avenue commercial corridor ([PDF]({{< baseurl >}}/resources/mit11_439s09_assn09_assignment01))
+Field trip walking tour of St. Claude Avenue commercial corridor ({{% resource_link d12e14c3-208b-8bdc-334b-7ac2ed8ef2d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

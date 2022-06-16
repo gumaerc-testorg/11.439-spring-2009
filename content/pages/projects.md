@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the final report prepared by students in the Spring
+  2009 Revitalizing Urban Main Streets course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

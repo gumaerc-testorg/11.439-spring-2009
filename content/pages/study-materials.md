@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides additional readings and links to web sites as study
+  materials for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -11,7 +13,7 @@ Additional Readings
 
 Proakis, George John. [S](http://hdl.handle.net/1721.1/69441)[trategies for Design: Shaping Private Development Adjacent to Transit Stations](http://hdl.handle.net/1721.1/69441). (M.C.P Thesis, Massachusetts Institute of Technology, 2002.)
 
-Downtown Salem Retail Study ([PDF]({{< baseurl >}}/resources/mit11_439s09_study_downtown_salem_retail_study)) (Courtesy of the Salem Redevelopment Authority. Used with permission.)
+Downtown Salem Retail Study ({{% resource_link ef238fa2-50ca-c354-cea9-3b2e185ba7a3 "PDF" %}}) (Courtesy of the Salem Redevelopment Authority. Used with permission.)
 
 U.S. Department of Housing and Urban Development & Office of Policy Development and Research. "Design and Disaster: Higher Education Responds to Hurricane Katrina." _Cityscape: A Journal of Policy, Development, and Research_ 10, no. 3 (2008). ([PDF - 6.2MB](http://www.huduser.org/periodicals/cityscpe/vol10num3/cityscapevol10num3.pdf))
 

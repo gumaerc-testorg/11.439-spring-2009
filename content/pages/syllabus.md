@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and information
+  on prerequisites, the class projects, reflective practice, class requirements, and
+  grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -23,7 +26,7 @@ Overview of the Client and Project Focus
 
 The Spring 2009 class will work with the St. Claude Avenue Main Streets Association in New Orleans to formulate plans for the revitalization of the St. Claude Avenue area into a regional food distribution market serving businesses and a diverse population of residents and visitors. The St. Claude Avenue Main Street District runs from Elysian Fields Avenue to Press Street. It is contained within the National/Local Historic District of Faubourg Marigny. The area consists of a mix of small storefront and residential buildings interspersed with a few large structures, a number of bar/music venues, and two art galleries. The streetscape's centerpiece is the St. Roch market, one of about two dozen such market buildings owned by the city as a part of a city-wide market access plan. Until the levee breaks and flooding of August 2005, the market was a point of access for locals to buy fresh food and sea foods. The market's fate is seen as mirroring the fate of the surrounding area. The building is currently targeted as one of the city's recovery areas and $600,000 has been earmarked for restoration.
 
-Additional background on the St. Claude area and the project. ([PDF]({{< baseurl >}}/resources/mit11_439s09_syll01_additional_background_st_claude))
+Additional background on the St. Claude area and the project. ({{% resource_link 100ad3a2-6571-1295-e394-ba2141d1c482 "PDF" %}})
 
 Class Project
 -------------
