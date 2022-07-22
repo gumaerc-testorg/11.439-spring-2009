@@ -6,6 +6,7 @@ file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orlea
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Lecture Summaries
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Field Trip to Broad Street Commercial Corridor, New Orleans, Louisiana
 uid: e0da9b56-fba2-8589-b866-c64fe9ca9076
 ---
 Schedule of activities for a class field trip to Broad Street Commercial Corridor, New Orleans, Louisiana.
-

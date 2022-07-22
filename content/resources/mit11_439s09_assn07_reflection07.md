@@ -9,6 +9,7 @@ file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orlea
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 'Reflection #7: Critical Moments: Personal Understanding'
 uid: 096bf250-7134-6b1e-7c48-03ab135396fd
 ---
 Reflection exercise geared to explore issues faced by planners during the planning process as well as document student professional growth and experiences working in multi-disciplinary teams. This exercise asks you to identify events, experiences, and activities that stand out as significant in the evolution of your understanding of planning and your role in the profession. 
-

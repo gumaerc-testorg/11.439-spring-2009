@@ -8,6 +8,7 @@ file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orlea
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Lecture Summaries
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Ethnic Retail Analysis
 uid: 64693bde-6849-eff2-ced4-14e44bb855b0
 ---
 Lecture presentation reviewing readings on the history of New Orleans—emphasizing its political and physical development, pre-Katrina challenges, common issues of urban disinvestment and decline, and how pre-Katrina conditions shape current rebuilding issues and challenges.
-

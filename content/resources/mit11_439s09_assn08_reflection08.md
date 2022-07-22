@@ -9,6 +9,7 @@ file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orlea
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 'Reflection #8: Group Process and Class Contribution, And Grades'
 uid: dd72f750-0fba-f9c7-d405-78b23c823efa
 ---
 Weekly reflection exercise geared to explore issues faced by planners during the planning process as well as document student professional growth and experiences working in multi-disciplinary teams. This final assignment asks each student to evaluate and grade the work of each team member and to reflect on their personal contributions to and learning from the group process.
-
