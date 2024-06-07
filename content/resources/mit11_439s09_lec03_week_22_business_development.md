@@ -8,6 +8,7 @@ description: Lecture presentation on policies, interventions, business developme
   used to develop a district marketing image or position, and directly marketing the
   business districts to distinct customer groups.
 file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/8112e922f53672ea946d8003bff739b1_MIT11_439s09_lec03_Week_22_Business_Development.pdf
+file_size: 130470
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
