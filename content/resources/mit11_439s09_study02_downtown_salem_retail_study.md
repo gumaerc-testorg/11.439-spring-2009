@@ -5,6 +5,7 @@ description: Interim Report on a retail market study of downtown Salem, Massachu
   downtown business mix and their implications for the downtown retail development
   strategy.
 file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/5caef3f279dec346df5e8b78ccbd95e9_MIT11_439s09_study02_Downtown_Salem_Retail_Study.pdf
+file_size: 527834
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,7 @@ description: Reflection exercise geared to explore issues faced by planners duri
   to articulate your expectations about the class, your role in the group, and thoughts
   about the project in New Orleans.
 file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/a13d47752b71ae1dfd152824857a8693_MIT11_439s09_assn01_reflection01.pdf
+file_size: 24091
 file_type: application/pdf
 learning_resource_types:
 - Assignments

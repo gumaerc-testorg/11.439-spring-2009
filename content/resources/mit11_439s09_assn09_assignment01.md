@@ -5,6 +5,7 @@ description: Reflection exercise geared to explore issues faced by planners duri
   working in multi-disciplinary teams. Questions to keep in mind for a tour of the
   St. Claude Avenue Commercial Corridor are provided for each of four student teams.
 file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/d12e14c3208b8bdc334b7ac2ed8ef2d2_MIT11_439s09_assn09_Assignment01.pdf
+file_size: 46925
 file_type: application/pdf
 learning_resource_types:
 - Assignments

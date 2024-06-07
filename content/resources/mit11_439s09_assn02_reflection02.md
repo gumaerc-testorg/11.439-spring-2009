@@ -4,6 +4,7 @@ description: Reflection exercise geared to explore issues faced by planners duri
   the planning process as well as document student professional growth and experiences
   working in multi-disciplinary teams.
 file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/7b7c1138e5ee0109b373003c6efe0799_MIT11_439s09_assn02_reflection02.pdf
+file_size: 31889
 file_type: application/pdf
 learning_resource_types:
 - Assignments
