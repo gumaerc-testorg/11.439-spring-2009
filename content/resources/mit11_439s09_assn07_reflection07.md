@@ -6,6 +6,7 @@ description: 'Reflection exercise geared to explore issues faced by planners dur
   experiences, and activities that stand out as significant in the evolution of your
   understanding of planning and your role in the profession. '
 file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/096bf25071346b1e7c4803ab135396fd_MIT11_439s09_assn07_reflection07.pdf
+file_size: 25353
 file_type: application/pdf
 learning_resource_types:
 - Assignments
