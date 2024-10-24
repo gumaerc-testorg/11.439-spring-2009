@@ -2,7 +2,7 @@
 content_type: resource
 description: Schedule of activities for a class field trip to Broad Street Commercial
   Corridor, New Orleans, Louisiana.
-file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/e0da9b56fba28589b866c64fe9ca9076_MIT11_439s09_lec04_IAP_Field_Trip_Itinerary.pdf
+file: /ol-ocw-studio-app/courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/e0da9b56fba28589b866c64fe9ca9076_MIT11_439s09_lec04_IAP_Field_Trip_Itinerary.pdf
 file_size: 64665
 file_type: application/pdf
 learning_resource_types:

@@ -4,7 +4,7 @@ description: Lecture presentation on market analysis approaches, market study re
   from Salem Massachusetts and Downtown Detroit, barriers for food-related development
   uses, and several frameworks for understanding and evaluating community assets and
   capacity.
-file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/eacec99308a7289cb0ba6d3386f24e7f_MIT11_439s09_lec01_Week09_Lecture_Notes.pdf
+file: /ol-ocw-studio-app/courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/eacec99308a7289cb0ba6d3386f24e7f_MIT11_439s09_lec01_Week09_Lecture_Notes.pdf
 file_size: 80415
 file_type: application/pdf
 learning_resource_types:
