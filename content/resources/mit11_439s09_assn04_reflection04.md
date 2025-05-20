@@ -3,7 +3,7 @@ content_type: resource
 description: Reflection exercise geared to explore issues faced by planners during
   the planning process as well as document student professional growth and experiences
   working in multi-disciplinary teams.
-file: /ol-ocw-studio-app/courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/1d8c86dbb9eb14e1164a08ca375c2058_MIT11_439s09_assn04_reflection04.pdf
+file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/1d8c86dbb9eb14e1164a08ca375c2058_MIT11_439s09_assn04_reflection04.pdf
 file_size: 22906
 file_type: application/pdf
 learning_resource_types:

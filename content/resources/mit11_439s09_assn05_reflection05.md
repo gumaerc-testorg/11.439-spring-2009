@@ -5,7 +5,7 @@ description: Reflection exercise geared to explore issues faced by planners duri
   working in multi-disciplinary teams. This reflection asks you to look back at the
   work during the first half of the course while also looking forward at your goals
   for the final plan and how to shape the last phases of our work.
-file: /ol-ocw-studio-app/courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/3eb833d4dd06b399335f2dbec89b1182_MIT11_439s09_assn05_reflection05.pdf
+file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/3eb833d4dd06b399335f2dbec89b1182_MIT11_439s09_assn05_reflection05.pdf
 file_size: 36928
 file_type: application/pdf
 learning_resource_types:
