@@ -2,7 +2,7 @@
 content_type: resource
 description: Background information on St. Claude Avenue, New Orleans, the focus of
   the class project.
-file: /courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/100ad3a265711295e394ba2141d1c482_MIT11_439s09_syll01_Additional_Background_St_Claude.pdf
+file: /ol-ocw-studio-app/courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/100ad3a265711295e394ba2141d1c482_MIT11_439s09_syll01_Additional_Background_St_Claude.pdf
 file_size: 22437
 file_type: application/pdf
 learning_resource_types: []
