@@ -11,11 +11,11 @@ uid: bd5434f2-511d-7ed9-c958-520c47cb2b2a
 Additional Readings
 -------------------
 
-Proakis, George John. [S](http://hdl.handle.net/1721.1/69441)[trategies for Design: Shaping Private Development Adjacent to Transit Stations](http://hdl.handle.net/1721.1/69441). (M.C.P Thesis, Massachusetts Institute of Technology, 2002.)
+Proakis, George John. {{% resource_link "6f4e256a-73f5-46cb-8289-3e186e686383" "S" %}}{{% resource_link "6f4e256a-73f5-46cb-8289-3e186e686383" "trategies for Design: Shaping Private Development Adjacent to Transit Stations" %}}. (M.C.P Thesis, Massachusetts Institute of Technology, 2002.)
 
 Downtown Salem Retail Study ({{% resource_link ef238fa2-50ca-c354-cea9-3b2e185ba7a3 "PDF" %}}) (Courtesy of the Salem Redevelopment Authority. Used with permission.)
 
-U.S. Department of Housing and Urban Development & Office of Policy Development and Research. "Design and Disaster: Higher Education Responds to Hurricane Katrina." _Cityscape: A Journal of Policy, Development, and Research_ 10, no. 3 (2008). ([PDF - 6.2MB](http://www.huduser.org/periodicals/cityscpe/vol10num3/cityscapevol10num3.pdf))
+U.S. Department of Housing and Urban Development & Office of Policy Development and Research. "Design and Disaster: Higher Education Responds to Hurricane Katrina." _Cityscape: A Journal of Policy, Development, and Research_ 10, no. 3 (2008). ({{% resource_link "ac83b81d-914b-47cc-8842-c1cc418f79b9" "PDF - 6.2MB" %}})
 
 Ewing, Reid. "From Highway to My Way." _Planning Practice_ (January 2001): 22.
 
@@ -30,8 +30,8 @@ Urban Land Institute. _A Strategy for Rebuilding New Orleans_. Louisiana. Novemb
 Web Sites
 ---------
 
-[Broad Connections: A Revitalization Strategy for New Orleans Commercial Center](http://civicmoxie.com/portfolio/broad-connections-a-revitalization-strategy-for-a-new-orleans-commercial-corridor/).
+{{% resource_link "c1d2387f-bcd1-4103-b08d-f07804db3c79" "Broad Connections: A Revitalization Strategy for New Orleans Commercial Center" %}}.
 
-[New Orleans Master Plan and Comprehensive Zoning Ordinance](http://www.nola.gov/city-planning/czo/).
+{{% resource_link "8d05b4e0-056f-4794-a0c2-5871a94728cb" "New Orleans Master Plan and Comprehensive Zoning Ordinance" %}}.
 
-"[LEED for Neighborhood Development](http://www.usgbc.org/DisplayPage.aspx?CMSPageID=148)." U.S. Green Building Council.
+"{{% resource_link "b40f72d3-7aaa-4ebc-a5f0-4f246d477454" "LEED for Neighborhood Development" %}}." U.S. Green Building Council.
